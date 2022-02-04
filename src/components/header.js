@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: `none`,
           }}
         >
-          {siteTitle}Hunter
+          {siteTitle}
         </Link>
       </h1>
     </div>
